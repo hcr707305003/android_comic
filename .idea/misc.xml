@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/comic_week_show_layout.xml" value="0.17798913043478262" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/comic_week_tag_layout.xml" value="0.17798913043478262" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/comic_week_tag_layout_item.xml" value="0.1" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/fragment_blank.xml" value="0.34375" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/friday.xml" value="0.1" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/home_tab_fragment.xml" value="0.1" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/home_tag_button_layout.xml" value="0.22" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/monday.xml" value="0.17806484295845998" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/newComic_tab_fragment.xml" value="0.17806484295845998" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/new_comic_tab_fragment.xml" value="0.17806484295845998" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/palgantong_tab_fragment.xml" value="0.17806484295845998" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/project_tab_fragment.xml" value="0.22" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/saturday.xml" value="0.1" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/sunday.xml" value="0.1" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/tag_button_layout.xml" value="0.17798913043478262" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/thursday.xml" value="0.1" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/tuesday.xml" value="0.1" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/view_banner_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/view_banner_view.xml" value="0.1" />
+        <entry key="..\:/Desktop/android/android_comic/app/src/main/res/layout/wednesday.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
